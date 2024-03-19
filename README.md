@@ -36,6 +36,7 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 
 
 ![Logo](https://i.ibb.co/0rtTQ20/minecraft-title-1.png)
+
 Credit: https://www.spigotmc.org/resources/ranks-betterranks-with-custom-textures-for-itemsadder.84852/
 
 ## Support
