@@ -63,7 +63,7 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 
 ## Credit
 Ranks Made By RealGamerz
-Youtube:https://youtube.com/@RealGamerzYT
+Youtube: https://youtube.com/@RealGamerzYT
 
 ## Support
 
