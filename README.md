@@ -1,7 +1,7 @@
 
 #  Nautical Ranks
 
-A resouse pack for java and bedrock that adds custom ranks like better ranks for items adder one of the reasons we are abetter option is we work on geyser and all are ranks are free and easy to download no need for a plugin just a resource pack.
+A resouse pack for java and bedrock that adds custom ranks like better ranks for items adder one of the reasons we are a better option is we work on geyser and all are ranks are free and easy to download no need for a plugin just a resource pack.
 
 
 
