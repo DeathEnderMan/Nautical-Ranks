@@ -73,7 +73,7 @@ Youtube: https://youtube.com/@RealGamerzYT
 
 ## Support
 
-For support, email support@nauticalhosting.org or join https://discord.gg/MTgdUMrpK8
+For support, email support@nauticalhosting.org or join https://discord.com/invite/nauticalservices
 
 
 ![Logo](https://i.postimg.cc/gj6SSb7W/Nautical-Services-Bot.png)
