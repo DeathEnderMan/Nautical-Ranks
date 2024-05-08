@@ -71,7 +71,7 @@ resource-pack-sha1=23ca51f727bd9c29754d802900b3e38bc555411b
 Ranks Made By RealGamerz
 Youtube: https://youtube.com/@RealGamerzYT
 RealGamerzYT Discord:
-https://discord.com/invite/k4uwYKNk3h
+[https://discord.com/invite/k4uwYKNk3h](https://discord.com/invite/9q8DNeTbJd)
 ## Support
 
 For support, email support@nauticalhosting.org or join https://discord.com/invite/nauticalservices
