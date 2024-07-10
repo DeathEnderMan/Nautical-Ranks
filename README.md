@@ -12,6 +12,7 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 - No plugins needed
 - Java & Bedrock
 - Free
+- Have Support For Box Servers NOW!
 
 
 ## Ranks
@@ -53,6 +54,9 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 | Yellow |  |
 | Youtube |  |
 | Member |  |
+| Grinder |  |
+| Master |  |
+| Breaker |  |
 
 
 
