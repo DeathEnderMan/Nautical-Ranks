@@ -74,13 +74,13 @@ resource-pack-cfd37482c9f5d29362c385a96a5edb085a7d6178
 ```
 
 ## Credit
-Ranks Made By RealGamerz & Coder Soft
-Ideas By ItsSoulXeo
-Bugs Fixer Mastyusb
-Mc Hacked Comunity
-HydraBox
-Youtube: https://youtube.com/@RealGamerzYT
-Youtube: https://www.youtube.com/@power-titan
+- Ranks Made By RealGamerz & Coder Soft
+- Ideas By ItsSoulXeo
+- Bugs Fixer Mastyusb
+- Mc Hacked Comunity
+- HydraBox
+- Youtube: https://youtube.com/@RealGamerzYT
+- Youtube: https://www.youtube.com/@power-titan
 ## Support
 
 For support, email support@nauticalhosting.org or join [https://discord.com/invite/nauticalservices](https://discord.gg/NedHt6FVwj)
