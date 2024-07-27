@@ -1,5 +1,5 @@
 
-#  Nautical Ranks
+#  Nautical Ranks (BOX SERVER) EDITION
 
 A resouse pack for java and bedrock that adds custom ranks like better ranks for items adder one of the reasons we are a better option is we work on geyser and all are ranks are free and easy to download no need for a plugin just a resource pack.
 
@@ -12,10 +12,13 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 - No plugins needed
 - Java & Bedrock
 - Free
+- Have Support For Box Servers NOW!
 
-
-## Ranks
+## Default Ranks
 ![Logo](https://i.postimg.cc/B6zn02n0/IMG-20240406-231129.jpg)
+
+## New Ranks
+![image.png](https://i.postimg.cc/vHdtLw3q/image.png)
 
 ## Symbols
 
@@ -53,6 +56,9 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 | Yellow |  |
 | Youtube |  |
 | Member |  |
+| Grinder |  |
+| Master |  |
+| Breaker |  |
 
 
 
@@ -61,15 +67,20 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 
 ## Java Pack Download
 ```bash
-resource-pack=https://nauticalhosting.org/Nautical-Ranks-V2-JAVA.zip
+resource-pack=https://download.mc-packs.net/pack/cfd37482c9f5d29362c385a96a5edb085a7d6178.zip
 ```
 ```bash
-resource-pack-sha1=23ca51f727bd9c29754d802900b3e38bc555411b
+resource-pack-cfd37482c9f5d29362c385a96a5edb085a7d6178
 ```
 
 ## Credit
-Ranks Made By RealGamerz
-Youtube: https://youtube.com/@RealGamerzYT
+- Ranks Made By RealGamerz & Coder Soft
+- Ideas By ItsSoulXeo
+- Bugs Fixer Mastyusb
+- Mc Hacked Comunity
+- HydraBox
+- Youtube: https://youtube.com/@RealGamerzYT
+- Youtube: https://www.youtube.com/@power-titan
 ## Support
 
 For support, email support@nauticalhosting.org or join [https://discord.com/invite/nauticalservices](https://discord.gg/NedHt6FVwj)
