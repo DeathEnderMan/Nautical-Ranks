@@ -66,6 +66,12 @@ resource-pack=https://nauticalhosting.org/Nautical-Ranks-V2-JAVA.zip
 ```bash
 resource-pack-sha1=23ca51f727bd9c29754d802900b3e38bc555411b
 ```
+## For Content Cretors!
+If You Making A Video On Our Nautical Ranks Give Us Credits In Your Video Description!
+If You Don't Give You Might Get Copyright And Your Video Will Deleted!
+creator https://youtube.com/@RealGamerzYT
+pack uploaded To DeathEnderMan Github Page!
+https://youtube.com/@DeathEnderMan
 
 ## Credit
 Ranks Made By RealGamerz
