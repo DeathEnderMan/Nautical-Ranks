@@ -60,10 +60,10 @@ A resouse pack for java and bedrock that adds custom ranks like better ranks for
 
 
 ## Java Pack Download
-```bash
+```properties
 resource-pack=https://nauticalhosting.org/Nautical-Ranks-V2-JAVA.zip
 ```
-```bash
+```properties
 resource-pack-sha1=23ca51f727bd9c29754d802900b3e38bc555411b
 ```
 
