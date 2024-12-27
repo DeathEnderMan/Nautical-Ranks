@@ -1,78 +1,61 @@
+# Nautical Ranks
 
-#  Nautical Ranks
-
-A resouse pack for java and bedrock that adds custom ranks like better ranks for items adder one of the reasons we are a better option is we work on geyser and all are ranks are free and easy to download no need for a plugin just a resource pack.
-
-
-
+A resource pack for Java and Bedrock that adds custom ranks, compatible with Geyser. All ranks are free and easy to install - no plugins required, just a resource pack.
 
 ## Features
 
 - Geyser Compatible
 - No plugins needed
-- Java & Bedrock
+- Java & Bedrock Support
 - Free
+- Custom Rank Designs
 
+![Ranks Image](https://i.postimg.cc/0NMQF8k2/image.png)
 
-## Ranks
-![Logo](https://i.postimg.cc/B6zn02n0/IMG-20240406-231129.jpg)
+## Available Ranks
 
-## Symbols
+| Rank | Glyph |
+|------|-------|
+| Member |  | 
+| Media |  | 
+| Manager |  | 
+| Helper |  | 
+| MVP |  | 
+| MVP+ |  | 
+| MVP++ |  | 
+| Mod |  | 
+| Noob |  | 
+| Owner |  | 
+| Admin |  | 
+| Pro |  | 
+| Twitch |  | 
+| OG |  | 
+| Builder |  | 
+| VIP |  | 
+| VIP+ |  | 
+| Dev |  | 
+| Designer |  | 
+| God |  | 
+| Elite |  | 
+| Elite+ |  | 
+| YouTube |  | 
+| Broadcast |  | 
+| Partner |  | 
+| NPC |  | 
 
-| Rank             | Symbol                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Admin  |  |
-| Blue   |  |
-| Builder |  |
-| Designer |  |
-| Dev |  |
-| Devlarge |  |
-| Donator |  |
-| Elite |  |
-| Elite+ |  |
-| Event staff |  |
-| God |  |
-| Green |  |
-| Helper |  |
-| Manager |  |
-| Media |  |
-| Mod |  |
-| Modlarge |  |
-| Mvp |  |
-| Mvp+ |  |
-| Mvp++ |  |
-| Noob |  |
-| OG |  |
-| Owner |  |
-| Pro |  |
-| Red |  |
-| Tiktok |  |
-| Twitch |  |
-| Vip |  |
-| Vip+ |  |
-| Yellow |  |
-| Youtube |  |
-| Member |  |
-
-
-
-
-
-
-## Java Pack Download
+## Installation
+Kasaisora Tutorial: https://www.youtube.com/watch?v=2clJmbuH_t0&t=17s
+### Java Edition
 ```bash
-resource-pack=https://nauticalhosting.org/Nautical-Ranks-V2-JAVA.zip
-```
-```bash
-resource-pack-sha1=23ca51f727bd9c29754d802900b3e38bc555411b
+resource-pack=https://nauticalhosting.org/Nautical-Ranks-V3-Java.zip
+resource-pack-sha1=6c47421e9cbc87bc0270364548a6c00da1340a46
 ```
 
-## Credit
-Ranks Made By RealGamerz
-Youtube: https://youtube.com/@RealGamerzYT
+### Bedrock Edition
+Download directly from this github or our website
+
 ## Support
+- Email: support@nauticalhosting.org
+- Discord: [Join our community](https://discord.gg/NedHt6FVwj)
 
-For support, email support@nauticalhosting.org or join [https://discord.com/invite/nauticalservices](https://discord.gg/NedHt6FVwj)
-
-
-![Logo](https://i.postimg.cc/gj6SSb7W/Nautical-Services-Bot.png)
+![Nautical Services Logo](https://i.postimg.cc/gj6SSb7W/Nautical-Services-Bot.png)
