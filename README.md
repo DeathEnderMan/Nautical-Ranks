@@ -50,6 +50,12 @@ Kasaisora Tutorial: https://www.youtube.com/watch?v=2clJmbuH_t0&t=17s
 resource-pack=https://nauticalhosting.org/Nautical-Ranks-V3-Java.zip
 resource-pack-sha1=6c47421e9cbc87bc0270364548a6c00da1340a46
 ```
+## For Content Cretors!
+If You Making A Video On Our Nautical Ranks Give Us Credits In Your Video Description!
+If You Don't Give You Might Get Copyright And Your Video Will Deleted!
+creator https://youtube.com/@RealGamerzYT
+pack uploaded To DeathEnderMan Github Page!
+https://youtube.com/@DeathEnderMan
 
 ### Bedrock Edition
 Download directly from this github or our website
